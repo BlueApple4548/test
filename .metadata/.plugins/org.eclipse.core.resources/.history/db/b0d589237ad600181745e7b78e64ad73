@@ -1,0 +1,5 @@
+package com.internousdev.webproje2.util;
+
+public class DBConnector {
+
+}

@@ -1,0 +1,5 @@
+package com.internousdev.webproje5.dto;
+
+public class LoginDTO {
+
+}

@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.internousdev.webproj2.dao.LoginDAO"/>
+<fullyQualifiedTypeName name="com.internousdev.webproj3.dao.TestDAO"/>
+<fullyQualifiedTypeName name="com.mysql.jdbc.PreparedStatement"/>
+<fullyQualifiedTypeName name="com.internousdev.webproje2.dao.LoginDAO"/>
+<fullyQualifiedTypeName name="com.internousdev.webproje2.dao.InquiryCompleteDAO"/>
+<fullyQualifiedTypeName name="java.sql.BatchUpdateException"/>
+<fullyQualifiedTypeName name="java.sql.Array"/>
+<fullyQualifiedTypeName name="com.internousdev.webproje3.util.DBConnector"/>
+<fullyQualifiedTypeName name="com.internousdev.webproje3.dao.TestDAO"/>
+<fullyQualifiedTypeName name="com.internousdev.webproje4.dao.TestDAO"/>
+</qualifiedTypeNameHistroy>
